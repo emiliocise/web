@@ -1,0 +1,105 @@
+nav{
+	display: flex;
+	justify-content: space-around;
+	background-color: #F4F1EA;
+	top: 0;
+	align-items: center;
+	
+	width: 100%;
+	
+}
+h1{
+	text-align: center;
+
+}
+#title-main{
+	display: flex;
+	justify-content: center;
+}
+.login{
+	display: flex;
+	justify-content: space-around;
+}
+#mail{
+	display: block;
+}
+.remember-me-checkbox{
+	display: inline-block;
+}
+#inputs-boton{
+	display: flex;
+	width: 30%
+	align-items: center;
+	justify-content: center;
+}
+#new-user{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-image: url("../img/libros.png");
+	background-size: cover;
+	background-repeat: repeat-x;
+	background-position: bottom;
+	height: 100vh;	
+}
+#sign-social{
+	background-color: black;
+	color: white;
+}
+#left-container{
+	display: flex;
+	flex-direction: row;
+	
+
+}
+.left-container__text{
+
+	
+	}
+#main-content{
+	display: flex;
+	justify-content: space-around;
+}
+#right-container{
+	
+	
+}
+.apple-button{
+	width : 135px;
+	height: 40px; 
+}
+.google-button{
+	width : 135px;
+	height: 40px; 
+}
+
+
+.text-box{
+	
+}
+.books{
+	background-color: #f4f2e9;
+}
+aside{
+	
+}
+.books{
+
+}
+.books1{
+	height: 100%;
+	width: 100%;
+}
+.books2{
+	height: 100%;
+	width: 100%;
+}
+.text-signup{
+	font-size: 8px;
+}
+.sign-up-botton{
+
+}
+h2{
+	text-align: left;
+}

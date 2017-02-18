@@ -1,0 +1,22 @@
+body{
+	background-color: yellow;
+}
+
+@media only screen and (max-width : 320px) and (orientation: portrait) {
+	body{
+	background-color: blue;
+	}
+}
+@media only screen and (min-width : 321px) and (orientation: landscape) {
+	body{
+	background-color: red;
+	}
+}
+@media only screen and (min-width : 600px) {
+	div{
+	display: inline-block;
+	width: 20%;
+	text-align: center;
+
+	}
+}
